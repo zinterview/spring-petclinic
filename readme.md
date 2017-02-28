@@ -44,7 +44,7 @@ If m2e is not there, just follow the install process here: http://eclipse.org/m2
 
 1) In the command line
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/zinterview/spring-petclinic.git
 ```
 2) Inside Eclipse
 ```
@@ -56,14 +56,14 @@ File -> Import -> Maven -> Existing Maven project
 
 |Spring Boot Configuration | Class or Java property files  |
 |--------------------------|---|
-|The Main Class | [PetClinicApplication](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java) |
-|Properties Files | [application.properties](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/resources) |
-|Caching | [CacheConfig](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/system/CacheConfig.java) |
+|The Main Class | [PetClinicApplication](https://github.com/zinterview/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java) |
+|Properties Files | [application.properties](https://github.com/zinterview/spring-petclinic/blob/master/src/main/resources) |
+|Caching | [CacheConfig](https://github.com/zinterview/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/system/CacheConfig.java) |
 
 ## Interesting Spring Petclinic branches and forks
 
 The Spring Petclinic master branch in the main
-[spring-projects](https://github.com/spring-projects/spring-petclinic)
+[spring-projects](https://github.com/zinterview/spring-petclinic)
 GitHub org is the "canonical" implementation, currently based on
 Spring Boot and Thymeleaf. There are quite a few forks in a special
 GitHub org [spring-petclinic](https://github.com/spring-petclinic). If
